@@ -1,6 +1,6 @@
 FROM cm2network/steamcmd:root
 
-LABEL maintainer="admin@asteriagroup.us"
+LABEL maintainer="https://github.com/ABurntBagel/gmod-docker-container"
 
 ###########################################################
 #                DEFAULT ENVIRONMENT VARIABLES            #
